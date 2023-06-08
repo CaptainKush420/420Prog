@@ -1,0 +1,17 @@
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\bin\Debug\net6.0-windows\Калькулятор.exe
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\bin\Debug\net6.0-windows\Калькулятор.deps.json
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\bin\Debug\net6.0-windows\Калькулятор.runtimeconfig.json
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\bin\Debug\net6.0-windows\Калькулятор.dll
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\bin\Debug\net6.0-windows\Калькулятор.pdb
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\obj\Debug\net6.0-windows\Калькулятор.csproj.AssemblyReference.cache
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\obj\Debug\net6.0-windows\Калькулятор.Form1.resources
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\obj\Debug\net6.0-windows\Калькулятор.csproj.GenerateResource.cache
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\obj\Debug\net6.0-windows\Калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\obj\Debug\net6.0-windows\Калькулятор.AssemblyInfoInputs.cache
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\obj\Debug\net6.0-windows\Калькулятор.AssemblyInfo.cs
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\obj\Debug\net6.0-windows\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\obj\Debug\net6.0-windows\Калькулятор.dll
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\obj\Debug\net6.0-windows\refint\Калькулятор.dll
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\obj\Debug\net6.0-windows\Калькулятор.pdb
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\obj\Debug\net6.0-windows\Калькулятор.genruntimeconfig.cache
+C:\Users\амин\Desktop\Калькулятор3\Калькулятор\Калькулятор\obj\Debug\net6.0-windows\ref\Калькулятор.dll
